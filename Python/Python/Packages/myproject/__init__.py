@@ -1,0 +1,1 @@
+print("you are accessing from outside of myproject")
